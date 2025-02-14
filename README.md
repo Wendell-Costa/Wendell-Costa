@@ -22,4 +22,7 @@
  
   ![Snake animation](https://github.com/Wendell-Costa/Wendell-Costa/blob/output/github-contribution-grid-snake.svg)
 
+
+  
+
 </div>
